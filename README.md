@@ -36,6 +36,14 @@ The project uses a Student API deployed on a local Kubernetes cluster to practis
 
 
 
+\## Grafana Dashboard Preview
+
+
+
+!\[Grafana Student API Monitoring Dashboard](docs/screenshots/grafana-dashboard.png)
+
+
+
 \## Monitoring Features
 
 
